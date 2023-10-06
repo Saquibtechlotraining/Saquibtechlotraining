@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saquibtechlotraining&label=Profile%20views&color=0e75b6&style=flat" alt="saquibtechlotraining" /> </p>
 
-- 🔭 I’m currently working on [data analysis and visualisation project](https://github.com/Saquibtechlotraining)
+- 🔭 I’m currently working on data analysis and visualisation project.
 
 - 🌱 I’m currently learning **Powerbi**
 
