@@ -21,5 +21,30 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+![icons8-python-50](https://github.com/Saquibtechlotraining/data/assets/91885135/38729388-5242-447b-916c-1eb068cf2e1e)
+![icons8-sql-40](https://github.com/Saquibtechlotraining/data/assets/91885135/f8ccb851-dd7a-448c-8037-45b782a08dc6)
+![icons8-numpy-45](https://github.com/Saquibtechlotraining/data/assets/91885135/10645169-7d2e-43ba-b1a9-772cf844aa8c)
+![icons8-pandas-40](https://github.com/Saquibtechlotraining/data/assets/91885135/14347de7-03b6-4fcb-9323-cb5c8ab24c81)
+![matplotlib-tutorial (5)](https://github.com/Saquibtechlotraining/data/assets/91885135/84321a63-a9f5-4a84-ac33-d166329b14ec)
+![download (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/3d521ff4-878e-427b-8942-9c0d2b018b75)
+![icons8-microsoft-sql-server-48](https://github.com/Saquibtechlotraining/data/assets/91885135/4b37d287-1eb5-4f84-9cc3-8e4ab4ac4ea4)
+![1649218981432 (3)](https://github.com/Saquibtechlotraining/data/assets/91885135/2faae9c6-ea49-4a08-9c3f-d29d154f41df)
+![52bc1f7c20b1b1a75ca20fffbd210f352 (2)](https://github.com/Saquibtechlotraining/data/assets/91885135/2beb9724-466d-4ca8-b5ff-be01a24fbf4b)
+
+<h3 align="left">IDE used:</h3>
+
+![PyCharm_Icon svg (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/05c0ff1d-b0d6-4cca-b271-ece021d597c5)
+
+
+
+
+
+
+
+
+
+
+
+
 
