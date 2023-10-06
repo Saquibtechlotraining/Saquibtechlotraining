@@ -36,6 +36,12 @@
 
 ![PyCharm_Icon svg (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/05c0ff1d-b0d6-4cca-b271-ece021d597c5)
 
+![png-transparent-visual-studio-code-computer-icons-microsoft-visual-studio-coding-blue-angle-text-thumbnail (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/edf44d77-40e0-4767-b26b-6b70e5082463)
+
+![icons8-jupyter-45](https://github.com/Saquibtechlotraining/data/assets/91885135/af1993ac-c47b-49bc-8667-887c073077b0)
+
+
+
 
 
 
