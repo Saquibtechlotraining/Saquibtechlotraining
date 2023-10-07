@@ -1,6 +1,15 @@
 <h1 align="center">Hi, I'm Saquib Ahmad</h1>
 <h3 align="center">A passionate for Data Analyst from India.</h3>
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/72d70c6a-5ff5-4fec-ac24-6edd8fa7014d)
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saquibtechlotraining&label=Profile%20views&color=0e75b6&style=flat" alt="saquibtechlotraining" /> </p>
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/data/assets/91885135/55907517-d497-4e3a-b48d-12f413b05c5e)
@@ -25,23 +34,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![icons8-python-50](https://github.com/Saquibtechlotraining/data/assets/91885135/38729388-5242-447b-916c-1eb068cf2e1e)
-![icons8-sql-40](https://github.com/Saquibtechlotraining/data/assets/91885135/f8ccb851-dd7a-448c-8037-45b782a08dc6)
-![icons8-numpy-45](https://github.com/Saquibtechlotraining/data/assets/91885135/10645169-7d2e-43ba-b1a9-772cf844aa8c)
-![icons8-pandas-40](https://github.com/Saquibtechlotraining/data/assets/91885135/14347de7-03b6-4fcb-9323-cb5c8ab24c81)
-![matplotlib-tutorial (5)](https://github.com/Saquibtechlotraining/data/assets/91885135/84321a63-a9f5-4a84-ac33-d166329b14ec)
-![download (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/3d521ff4-878e-427b-8942-9c0d2b018b75)
-![icons8-microsoft-sql-server-48](https://github.com/Saquibtechlotraining/data/assets/91885135/4b37d287-1eb5-4f84-9cc3-8e4ab4ac4ea4)
-![1649218981432 (3)](https://github.com/Saquibtechlotraining/data/assets/91885135/2faae9c6-ea49-4a08-9c3f-d29d154f41df)
-![52bc1f7c20b1b1a75ca20fffbd210f352 (2)](https://github.com/Saquibtechlotraining/data/assets/91885135/2beb9724-466d-4ca8-b5ff-be01a24fbf4b)
+![icons8-python-50](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/5f067c9c-e654-4ca3-b8e1-adc5bdbdc7d2)
+![icons8-sql-40](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/20981dad-ac72-4bbd-8729-ebfeb8675f74)
+![icons8-numpy-45](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/2818b7f4-fa14-4d63-880e-eb7361dd6132)
+![icons8-pandas-40](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/489bc597-0761-4945-8613-6e843dc1b37a)
+![matplotlib-tutorial (5)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/8bf0f246-6c8b-407b-8843-183a6a35a607)
+![download (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/eb3ea022-7da8-4c74-b8d2-8e380647a9a8)
+![icons8-microsoft-sql-server-48](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/601b527b-1158-4b4a-b693-45a6e631ad6b)
+![1649218981432 (3)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/fcda09b3-52bb-4140-bd91-2a1ca3bfefba)
+![52bc1f7c20b1b1a75ca20fffbd210f352 (2)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/eabc368f-f0a1-4de0-812f-f4865fa36727)
 
-<h3 align="left">IDE used:</h3>
+<h3 align="left">IDE use:</h3>
 
-![PyCharm_Icon svg (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/05c0ff1d-b0d6-4cca-b271-ece021d597c5)
+![PyCharm_Icon svg (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/9aa0b8bf-aaf5-4fd3-bcf4-a972cb15fea4)
+![png-transparent-visual-studio-code-computer-icons-microsoft-visual-studio-coding-blue-angle-text-thumbnail (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/f95afcc5-2b77-45c8-bf78-fb7446c3a3d7)
+![icons8-jupyter-45](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/939b06db-7cb6-4c65-8368-27b9cdbe5d86)
 
-![png-transparent-visual-studio-code-computer-icons-microsoft-visual-studio-coding-blue-angle-text-thumbnail (1)](https://github.com/Saquibtechlotraining/data/assets/91885135/edf44d77-40e0-4767-b26b-6b70e5082463)
 
-![icons8-jupyter-45](https://github.com/Saquibtechlotraining/data/assets/91885135/af1993ac-c47b-49bc-8667-887c073077b0)
+
+
+
+
+
 
 
 
