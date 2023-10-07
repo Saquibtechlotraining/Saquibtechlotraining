@@ -39,6 +39,8 @@
 ![icons8-microsoft-sql-server-48](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/601b527b-1158-4b4a-b693-45a6e631ad6b)
 ![1649218981432 (3)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/fcda09b3-52bb-4140-bd91-2a1ca3bfefba)
 ![52bc1f7c20b1b1a75ca20fffbd210f352 (2)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/eabc368f-f0a1-4de0-812f-f4865fa36727)
+![icons8-power-bi-55](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/b8edf7e7-1f93-43b4-96a2-fd8dd4ae788a)
+
 
 <h3 align="left">IDE use:</h3>
 
