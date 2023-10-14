@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saquibahmadgufi999@gmail.com**
 
-- ![icons8-resume-20](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/4d177e02-83af-4193-903a-6748e90a1f31)     My Resume 
+-   My Resume https://github.com/Saquibtechlotraining/My-Resume/blob/main/SAQUIB%20AHAMD%20RESUME.pdf  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
