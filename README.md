@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saquib Ahmad</h1>
-<h3 align="center">A passionate for Data Analyst from India.</h3>
+<h3 align="center">A passionate Data Analyst from India..</h3>
 
 
 ![1585915330553](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/ea270507-31b9-4994-9bde-13e7aa594bb7)
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **saquibahmadgufi999@gmail.com**
 
--   My Resume
+- 🧾 My Resume
    ![20231014191727sst (1)](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1ec20a3f-86a8-4173-a748-58dde03f411c)
 
 
