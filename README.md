@@ -18,7 +18,8 @@
 - 📫 How to reach me **saquibahmadgufi999@gmail.com**
 
 -   My Resume
-    ![20231014191727sst](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1d9e5544-e207-425e-ad3b-0c40c34087f4)
+    ![20231014192243sst](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/a0be3300-4eed-4696-98f6-d76e13f132e9)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +44,6 @@
 <h3 align="left">IDE use:</h3>
 
 
-![qr](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/25706c39-a4d4-4812-9d0d-6e68d9328627)
 
 
 
