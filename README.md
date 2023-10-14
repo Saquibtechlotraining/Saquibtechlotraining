@@ -45,6 +45,7 @@
 <h3 align="left">IDE use:</h3>
 
 ![logo_jupyter](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/374df33a-5473-41f5-9708-3e2c3db6dd39)
+<img width="94" alt="app-icon" src="https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/f41f880c-6eec-4642-a931-2c9c56300187">
 
 
 
