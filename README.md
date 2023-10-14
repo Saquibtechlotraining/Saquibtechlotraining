@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **saquibahmadgufi999@gmail.com**
 
--   My Resume https://github.com/Saquibtechlotraining/My-Resume/blob/main/SAQUIB%20AHAMD%20RESUME.pdf  
+-   My Resume
+    ![20231014191727sst](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1d9e5544-e207-425e-ad3b-0c40c34087f4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
