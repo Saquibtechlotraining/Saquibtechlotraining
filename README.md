@@ -4,8 +4,6 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/72d70c6a-5ff5-4fec-ac24-6edd8fa7014d)
 
 
-
-
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/data/assets/91885135/55907517-d497-4e3a-b48d-12f413b05c5e)
 
 
@@ -32,14 +30,15 @@
 
 
 ![download](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/21dd9e28-efcf-4bfb-ab84-1bc0146fab17)
+![images](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/5557b119-6f2a-4295-a36e-e874b5a1e4f1)
+
+![4248443](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/3ddc9509-a47e-4c8d-b512-6775580375df)
 
 
 
 <h3 align="left">IDE use:</h3>
 
-![PyCharm_Icon svg (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/9aa0b8bf-aaf5-4fd3-bcf4-a972cb15fea4)
-![png-transparent-visual-studio-code-computer-icons-microsoft-visual-studio-coding-blue-angle-text-thumbnail (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/f95afcc5-2b77-45c8-bf78-fb7446c3a3d7)
-![icons8-jupyter-45](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/939b06db-7cb6-4c65-8368-27b9cdbe5d86)
+
 
 
 
