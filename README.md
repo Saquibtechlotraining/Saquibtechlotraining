@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saquib Ahmad</h1>
-<h3 align="center">A passionate for Data Analyst from 🇮🇳.</h3>
+<h3 align="center">A passionate for Data Analyst from India.</h3>
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/72d70c6a-5ff5-4fec-ac24-6edd8fa7014d)
 
