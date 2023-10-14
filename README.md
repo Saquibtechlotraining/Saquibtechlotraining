@@ -42,6 +42,10 @@
 <h3 align="left">IDE use:</h3>
 
 
+![qr](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/25706c39-a4d4-4812-9d0d-6e68d9328627)
+
+
+
 
 
 
