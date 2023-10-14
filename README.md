@@ -30,16 +30,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![icons8-python-50](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/5f067c9c-e654-4ca3-b8e1-adc5bdbdc7d2)
-![icons8-sql-40](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/20981dad-ac72-4bbd-8729-ebfeb8675f74)
-![icons8-numpy-45](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/2818b7f4-fa14-4d63-880e-eb7361dd6132)
-![icons8-pandas-40](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/489bc597-0761-4945-8613-6e843dc1b37a)
-![matplotlib-tutorial (5)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/8bf0f246-6c8b-407b-8843-183a6a35a607)
-![download (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/eb3ea022-7da8-4c74-b8d2-8e380647a9a8)
-![icons8-microsoft-sql-server-48](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/601b527b-1158-4b4a-b693-45a6e631ad6b)
-![1649218981432 (3)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/fcda09b3-52bb-4140-bd91-2a1ca3bfefba)
-![52bc1f7c20b1b1a75ca20fffbd210f352 (2)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/eabc368f-f0a1-4de0-812f-f4865fa36727)
-![icons8-power-bi-55](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/b8edf7e7-1f93-43b4-96a2-fd8dd4ae788a)
+
+![download](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/21dd9e28-efcf-4bfb-ab84-1bc0146fab17)
+
 
 
 <h3 align="left">IDE use:</h3>
