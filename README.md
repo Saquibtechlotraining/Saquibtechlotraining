@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Saquib Ahmad</h1>
 <h3 align="center">A passionate for Data Analyst from India.</h3>
 
+![2318736](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/d5bd013a-880e-4f77-a264-5750db067f2c)
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/72d70c6a-5ff5-4fec-ac24-6edd8fa7014d)
 
 
@@ -33,6 +34,7 @@
 ![images](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/5557b119-6f2a-4295-a36e-e874b5a1e4f1)
 
 ![4248443](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/3ddc9509-a47e-4c8d-b512-6775580375df)
+![idcrAE_djX](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/447af0be-426e-4e94-b52b-0468177509e9)
 
 
 
