@@ -16,16 +16,7 @@
 - 📫 How to reach me **saquibahmadgufi999@gmail.com**
 
 - 🧾 My Resume
-   ![20231014191727sst (1)](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1ec20a3f-86a8-4173-a748-58dde03f411c)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saquib-ahmad-4b62371b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saquib-ahmad-4b62371b0/" height="30" width="40" /></a>
-<a href="https://instagram.com/saquib281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saquib281" height="30" width="40" /></a>
-</p>
-
+[Click here](https://github.com/Saquibtechlotraining/My-Resume/blob/main/SAQUIB%20AHAMD%20RESUME.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,13 +29,19 @@
 
 
 
-
-
 <h3 align="left">IDE use:</h3>
 
 ![icon_PyCharm](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/48447e14-a60d-4285-b12f-bc4831eb1e68)
 ![logo_jupyter](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/374df33a-5473-41f5-9708-3e2c3db6dd39)
 <img width="94" alt="app-icon" src="https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/f41f880c-6eec-4642-a931-2c9c56300187">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saquib-ahmad-4b62371b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saquib-ahmad-4b62371b0/" height="30" width="40" /></a>
+<a href="https://instagram.com/saquib281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saquib281" height="30" width="40" /></a>
+</p>
+
+
 
 
 
