@@ -5,7 +5,7 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/data/assets/91885135/55907517-d497-4e3a-b48d-12f413b05c5e)
 - 🔭 I’m currently working on data analysis, data manipulation and visualisation project.
 
-- 💻 I’m currently learning **Powerbi**
+- 💻 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
 
