@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on data analysis, data manipulation and visualisation project.
 
 - 💻 I’m currently learning **Machine Learning**
+  
+- 🖥️  See my portfolio at [novypro](https://www.novypro.com/profile_about/saquibahmad)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
 
