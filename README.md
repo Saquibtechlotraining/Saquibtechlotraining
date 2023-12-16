@@ -18,7 +18,7 @@
 - 📈 Particularily interseted in Data Analytics and Big Data to solve business problems.
 
 - 📑 My Resume
-[Click here](https://github.com/Saquibtechlotraining/My-Resume/blob/main/SAQUIB%20AHAMD%20RESUME.pdf)
+[Click here](https://github.com/Saquibtechlotraining/My-Resume/blob/main/Saquib%20Ahmad's%20Resume.pdf)
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 
