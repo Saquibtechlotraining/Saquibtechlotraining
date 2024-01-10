@@ -2,7 +2,7 @@
 <h3 align="center">🚀 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝗀𝗂𝗍𝗁𝗎𝖻 𝖺𝖼𝖼𝗈𝗎𝗇𝗍</h3>
 
 ### 💁🏽‍♂️ ABOUT ME
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://github.com/Saquibtechlotraining/data/assets/91885135/55907517-d497-4e3a-b48d-12f413b05c5e)
+
 - 👨🏼‍💻 I'm a Data Analyst and Big Data Engineer by profession and currently working on a project.
   
 - 🔭 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
