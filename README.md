@@ -13,9 +13,6 @@
 
 - 🫱🏽‍🫲🏾 I'm open to collaborating on Open source projects.
 
-- 📑 My Resume
-[Click here](https://github.com/Saquibtechlotraining/My-Resume/blob/main/My%20Resume.pdf)
-
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
