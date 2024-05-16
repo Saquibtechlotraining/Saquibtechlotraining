@@ -4,7 +4,7 @@
 ### 💁🏽‍♂️ ABOUT ME
 
 - 👨🏼‍💻 I'm a Data Analyst and Big Data Engineer by profession and currently working on a project.
-- 
+
 - 🔭 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
 
 - 🖥️  See my portfolio at [novypro](https://www.novypro.com/profile_about/saquibahmad)
