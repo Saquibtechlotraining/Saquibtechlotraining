@@ -13,7 +13,7 @@
 
 - 🫱🏽‍🫲🏾 I'm open to collaborating on Open source projects.
 
-<h3 align="left">👨‍💻 Languages and Tools:</h3>
+<h3 align="left">🛠️ LANGUAGES AND TOOLS:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
