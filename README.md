@@ -40,7 +40,7 @@
 
 <h3 align="left">🧑‍💻 CODING PROFILE:</h3>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![](https://leetcard.jacoblin.cool/Saquib281?cache=0)
 
 
 <h3 align="left">🫱🏽‍🫲🏾 CONNECT WITH ME:</h3>
