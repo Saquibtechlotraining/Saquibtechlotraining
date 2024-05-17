@@ -40,7 +40,7 @@
 
 <h3 align="left">🧑‍💻 CODING PROFILE:</h3>
 
-![](https://leetcard.jacoblin.cool/Saquib281?cache=0)
+![](https://leetcard.jacoblin.cool/Saquib281?ext=heatmap)
 
 
 <h3 align="left">🫱🏽‍🫲🏾 CONNECT WITH ME:</h3>
