@@ -51,7 +51,7 @@ I have undertaken and completed numerous projects across various domains. You ca
 I am always open to discussing new opportunities, collaborations, and innovative ideas. Feel free to reach out to me via email or LinkedIn:
 
   - **📧 Email:** [saquibahmadgufi999@gmail.com](mailto:saquibahmadgufi999@gmail.com)
-  - **🔗 LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/saquib-ahmad/)
+  - **🔗 LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/saquib-ahmad281/)
 
 
 
