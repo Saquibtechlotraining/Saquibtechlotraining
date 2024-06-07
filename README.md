@@ -11,7 +11,7 @@ Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analy
 
 • 🎓 Education: Bachelor of Technology in Computer Science.
 
-💻 Projects
+## 💻 Projects
 I have undertaken and completed numerous projects across various domains. You can explore my work through the following links:
 
 • 🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)
