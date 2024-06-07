@@ -1,6 +1,6 @@
 # Saquib Ahmad
 
-### 🌟 Professional Data Analyst
+## 🌟 Professional Data Analyst
 
 **Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analyst with a comprehensive background in real-time and big data projects, specializing in end-to-end data analysis and project management.**
 
