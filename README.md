@@ -1,22 +1,23 @@
 # Saquib Ahmad
 
-## 🌟 Professional Data Analyst
-Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analyst with a comprehensive background in real-time and big data projects, specializing in end-to-end data analysis and project management.
+### 🌟 Professional Data Analyst
+
+**Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analyst with a comprehensive background in real-time and big data projects, specializing in end-to-end data analysis and project management.**
+
+
+
 
 ## 👨‍💼 About Me
 
-• 🔭 Current Focus: Advancing my knowledge in machine learning and developing ML-based projects.
-
-• 💼 Experience: Former Data Analyst Intern at ConsoleFlare, where I gained substantial experience in data analysis and project execution.
-
-• 🎓 Education: Bachelor of Technology in Computer Science.
+- **🔭 Current Focus:** Advancing my knowledge in machine learning and developing ML-based projects.
+- **💼 Experience:** Former Data Analyst Intern at ConsoleFlare, where I gained substantial experience in data analysis and project execution.
+- **🎓 Education:** Bachelor of Technology in Computer Science.
 
 ## 💻 Projects
 I have undertaken and completed numerous projects across various domains. You can explore my work through the following links:
 
-• 🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)
-
-• 💻 [GitHub Profile](https://github.com/Saquibtechlotraining/Saquibtechlotraining)
+  - **🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)**
+  - **💻 [GitHub Profile](https://github.com/Saquibtechlotraining/Saquibtechlotraining)**
 
 ## 🛠️ Languages and Tools
 
@@ -47,11 +48,10 @@ I have undertaken and completed numerous projects across various domains. You ca
 
 
 ## 📞 Get in Touch
-If you have any queries, suggestions, or if you want to collaborate with me, feel free to connect:
+I am always open to discussing new opportunities, collaborations, and innovative ideas. Feel free to reach out to me via email or LinkedIn:
 
-•  📧 Email: saquibahmadgufi999@gmail.com
-
-• 🔗 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/saquib-ahmad281/)
+  - **📧 Email:** [saquibahmadgufi999@gmail.com](mailto:saquibahmadgufi999@gmail.com)
+  - **🔗 LinkedIn:** Connect with me on [LinkedIn](https://www.linkedin.com/in/saquib-ahmad/)
 
 
 
