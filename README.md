@@ -1,19 +1,24 @@
-<h1 align="center">𝗛𝗶 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲, 𝗜❜𝗺 𝗦𝗮𝗾𝘂𝗶𝗯 𝗔𝗵𝗺𝗮𝗱</h1>
-<h3 align="center">🚀 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝗍𝗈 𝗆𝗒 𝗀𝗂𝗍𝗁𝗎𝖻 𝖺𝖼𝖼𝗈𝗎𝗇𝗍</h3>
+# Saquib Ahmad
 
-### 💁🏽‍♂️ ABOUT ME
+## 🌟 Professional Data Analyst
+Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analyst with a comprehensive background in real-time and big data projects, specializing in end-to-end data analysis and project management.
 
-- 👨🏼‍💻 I'm a Data Analyst by profession and currently working on a project.
+## 👨‍💼 About Me
 
-- 🔭 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
+• 🔭 Current Focus: Advancing my knowledge in machine learning and developing ML-based projects.
 
-- 🖥️  See my portfolio at [Website](https://portfolio-saquib.vercel.app/)
+• 💼 Experience: Former Data Analyst Intern at ConsoleFlare, where I gained substantial experience in data analysis and project execution.
 
-- 📈 I have expertise in Data Analysis, Data Visualization, and leveraging Big Data for gaining insights to solve business problems.
+• 🎓 Education: Bachelor of Technology in Computer Science.
 
-- 🫱🏽‍🫲🏾 I'm open to collaborating on Open source projects.
+💻 Projects
+I have undertaken and completed numerous projects across various domains. You can explore my work through the following links:
 
-<h3 align="left">🛠️ LANGUAGES AND TOOLS:</h3>
+• 🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)
+
+• 💻 [GitHub Profile](https://github.com/Saquibtechlotraining/Saquibtechlotraining)
+
+## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,24 +35,23 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-<h3 align="left">💻 IDE/EDITORS:</h3>
+## 💻 IDEs/Editors
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<h3 align="left">🧑‍💻 CODING PROFILE:</h3>
+## 🚀 Coding Profile
 
 ![](https://leetcard.jacoblin.cool/Saquib281?ext=heatmap)
 
 
-<h3 align="left">🫱🏽‍🫲🏾 CONNECT WITH ME:</h3>
+## 📞 Get in Touch
+If you have any queries, suggestions, or if you want to collaborate with me, feel free to connect:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+•  📧 Email: saquibahmadgufi999@gmail.com
+
+• 🔗 LinkedIn: Connect with me on [LinkedIn](https://www.linkedin.com/in/saquib-ahmad281/)
 
 
 
