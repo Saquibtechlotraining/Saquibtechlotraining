@@ -7,7 +7,7 @@
 
 - 🔭 All of my projects are available at [https://github.com/Saquibtechlotraining](https://github.com/Saquibtechlotraining)
 
-- 🖥️  See my portfolio at [novypro](https://www.novypro.com/profile_about/saquibahmad)
+- 🖥️  See my portfolio at [Website](https://portfolio-saquib.vercel.app/)
 
 - 📈 I have expertise in Data Analysis, Data Visualization, and leveraging Big Data for gaining insights to solve business problems.
 
