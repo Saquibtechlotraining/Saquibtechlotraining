@@ -18,6 +18,7 @@ I have undertaken and completed numerous projects across various domains. You ca
 
   - **🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)**
   - **💻 [GitHub Profile](https://github.com/Saquibtechlotraining/Saquibtechlotraining)**
+  - **▶️ [Youtube Channel](https://youtube.com/@saquibahmad1619?si=xioWCuBs_Y9tgVzi)**
 
 ## 🛠️ Languages and Tools
 
