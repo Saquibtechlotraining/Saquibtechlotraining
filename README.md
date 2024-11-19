@@ -9,7 +9,7 @@
 
 ## 👨‍💼 About Me
 
-- **🔭 Current Focus:** Advancing my knowledge in machine learning and developing ML-based projects.
+- **🔭 Current Focus:** Advancing my knowledge in data analytics, Power BI, and machine learning, while creating projects related to these areas.
 - **💼 Experience:** Former Data Analyst Intern at ConsoleFlare, where I gained substantial experience in data analysis and project execution.
 - **🎓 Education:** Bachelor of Technology in Computer Science.
 
