@@ -1,16 +1,13 @@
 # Saquib Ahmad
 
-## 🌟 Professional Data Analyst
+## 🌟 Growth Analyst @ ET Money
 
-**Hello and welcome to my GitHub profile! I'm Saquib Ahmad, a dedicated Data Analyst with a comprehensive background in real-time and big data projects, specializing in end-to-end data analysis and project management.**
-
-
+**Hello and welcome to my GitHub profile! I’m Saquib Ahmad.**
 
 
 ## 👨‍💼 About Me
 
-- **🔭 Current Focus:** Advancing my knowledge in data analytics, Power BI, and machine learning, while creating projects related to these areas.
-- **💼 Experience:** Former Data Analyst Intern at ConsoleFlare, where I gained substantial experience in data analysis and project execution.
+- **💼 Experience:** Full-time Growth Analyst at ET Money
 - **🎓 Education:** Bachelor of Technology in Computer Science.
 
 ## 💻 Projects
