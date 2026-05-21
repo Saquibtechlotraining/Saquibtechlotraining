@@ -35,6 +35,7 @@ I have undertaken and completed numerous projects across various domains. You ca
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebEngage](https://img.shields.io/badge/WebEngage-6674E8?style=for-the-badge&logo=webengage&logoColor=white)
 
 
 ## 💻 IDEs/Editors
