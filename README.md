@@ -7,8 +7,10 @@
 
 ## 👨‍💼 About Me
 
-- **💼 Experience:** Full-time Growth Analyst at ET Money
+- **💼 Experience:** Growth Analyst at ET Money (1.5 Cr+ user base analytics)
 - **🎓 Education:** Bachelor of Technology in Computer Science.
+- **📊 Passionate:** About Data Analytics, Growth Analytics & BI Systems
+- **⚡Focused:** On building scalable data products & automation pipelines
 
 ## 💻 Projects
 I have undertaken and completed numerous projects across various domains. You can explore my work through the following links:
