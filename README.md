@@ -1,6 +1,6 @@
 # Saquib Ahmad
 
-## 🌟 Growth Analyst @ ET Money
+## 🌟 Growth Analyst @ ET Money | Data Analyst | BI & Automation Enthusiast
 
 **Hello and welcome to my GitHub profile! I’m Saquib Ahmad.**
 
