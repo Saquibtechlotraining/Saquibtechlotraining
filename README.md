@@ -15,7 +15,7 @@
 ## 💻 Projects
 I have undertaken and completed numerous projects across various domains. You can explore my work through the following links:
 
-  - **🌐 [My Portfolio](https://portfolio-saquib.vercel.app/)**
+  - **🌐 [My Portfolio](https://saquib-ahmad.netlify.app/)**
   - **💻 [GitHub Profile](https://github.com/Saquibtechlotraining/Saquibtechlotraining)**
   - **▶️ [Youtube Channel](https://youtube.com/@saquibahmad1619?si=xioWCuBs_Y9tgVzi)**
 
